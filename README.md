@@ -1,1 +1,3 @@
 # project_abm1_abm9
+## 1.Project Overview
+This is a learning project on Agent-Based Modeling (ABM), consisting of nine ABM model files of varying complexity, aimed at modeling the evolution and behavior of a system through modeling the interactions and influences among agents. The project aims to provide practical experience in using ABM simulations and modeling specific systems, while also developing skills in testing, debugging, defining functions and classes, data manipulation and organization, module development, creating basic graphical user interfaces, as well as web scraping and data processing. Successful completion of this project will provide valuable programming skills and experience in building agent models that can be applied to other fields and projects.
